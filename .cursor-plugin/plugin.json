@@ -1,0 +1,34 @@
+{
+  "name": "notely-voice",
+  "displayName": "Notely Voice",
+  "version": "1.0.0",
+  "description": "Search, analyze, and synthesize your voice notes in Notely Voice Pro. Query full audio transcripts, review AI-generated summaries and action items, and browse note folders.",
+  "author": {
+    "name": "Notely Voice Pro",
+    "email": "support@notelyvoice.ai"
+  },
+  "homepage": "https://notelyvoice.ai",
+  "repository": "https://github.com/Notely-Voice/notely-voice-cursor",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "notely-voice",
+    "voice-notes",
+    "transcripts",
+    "summaries",
+    "action-items",
+    "productivity",
+    "audio",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": [
+    "voice-notes",
+    "transcripts",
+    "summaries",
+    "productivity",
+    "mcp"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}
